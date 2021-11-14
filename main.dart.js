@@ -33854,11 +33854,11 @@ break
 case 1:return P.S(q,r)}})
 return P.T($async$n0,r)},
 CR(a){return new X.Di(a,null)},
-SI(a){switch(a){case C.te:return"max"
-case C.td:return"ultraHigh"
-case C.tc:return"veryHigh"
-case C.tb:return"high"
-case C.fM:return"medium"
+SI(a){switch(a){case C.fM:return"max"
+case C.te:return"ultraHigh"
+case C.td:return"veryHigh"
+case C.tc:return"high"
+case C.tb:return"medium"
 case C.ta:return"low"
 default:throw H.b(P.bn("Unknown ResolutionPreset value",null))}},
 vr(a){return this.Wl(a)},
@@ -34120,10 +34120,10 @@ case"left":case"right":default:return C.eD}},
 Xy(a){switch(a){case"user":return C.hW
 case"environment":return C.w0
 case"left":case"right":default:return C.hW}},
-XA(a){switch(a){case C.te:case C.td:return new P.W(4096,2160)
-case C.tc:return new P.W(1920,1080)
-case C.tb:return new P.W(1280,720)
-case C.fM:return new P.W(720,480)
+XA(a){switch(a){case C.fM:case C.te:return new P.W(4096,2160)
+case C.td:return new P.W(1920,1080)
+case C.tc:return new P.W(1280,720)
+case C.tb:return new P.W(720,480)
 case C.ta:default:return new P.W(320,240)}},
 Xz(a){switch(a){case"portrait-primary":return C.cc
 case"landscape-primary":return C.d_
@@ -54935,11 +54935,11 @@ C.DG=new G.nF(1,"RenderComparison.metadata")
 C.t9=new G.nF(2,"RenderComparison.paint")
 C.bR=new G.nF(3,"RenderComparison.layout")
 C.ta=new Z.jd("ResolutionPreset.low")
-C.fM=new Z.jd("ResolutionPreset.medium")
-C.tb=new Z.jd("ResolutionPreset.high")
-C.tc=new Z.jd("ResolutionPreset.veryHigh")
-C.td=new Z.jd("ResolutionPreset.ultraHigh")
-C.te=new Z.jd("ResolutionPreset.max")
+C.tb=new Z.jd("ResolutionPreset.medium")
+C.tc=new Z.jd("ResolutionPreset.high")
+C.td=new Z.jd("ResolutionPreset.veryHigh")
+C.te=new Z.jd("ResolutionPreset.ultraHigh")
+C.fM=new Z.jd("ResolutionPreset.max")
 C.tf=new H.eY("Role.incrementable")
 C.tg=new H.eY("Role.scrollable")
 C.th=new H.eY("Role.labelAndValue")
@@ -55269,7 +55269,7 @@ C.FU=new A.p(!1,null,null,null,null,null,10,C.A,null,1.5,null,C.v,null,null,null
 C.IA=new R.cK(C.GH,C.GI,C.GJ,C.GK,C.GL,C.GA,C.Gt,C.Hl,C.Hm,C.Hn,C.G9,C.Hb,C.FU)
 C.u4=new U.Dh("TextWidthBasis.longestLine")
 C.IB=new L.oh("Display the Picture",null,null,null,null)
-C.IC=new L.oh("Take a picture",null,null,null,null)
+C.IC=new L.oh("Liveness Challenge",null,null,null,null)
 C.Ll=new S.X3("ThemeMode.system")
 C.ID=new M.uk(null)
 C.cJ=new P.or(0,"TileMode.clamp")

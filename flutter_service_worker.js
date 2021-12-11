@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/icons/retake_button_icon.png": "44bfab882c6b556afb34fe07ba7b50b4",
 "assets/assets/backgrounds/landing_background.png": "032359c7ae10a33036efbd8efe76d2c7",
 "assets/AssetManifest.json": "31067e797f95b72eeae7623061579338",
-"assets/NOTICES": "0fdc2e56ef509c5e17c1f09c69c7c128",
+"assets/NOTICES": "d019c0c82e2b3c4668d94cc6105327ef",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "b8c599a207671f049b0330150231b3ff",
 "assets/packages/photobooth_ui/assets/fonts/GoogleSans-Regular.ttf": "51134713ade7b1f137e06ce395d39d40",
@@ -27,7 +27,7 @@ const RESOURCES = {
 "__/firebase/8.4.1/firebase-app.js": "8d83dd1fb7a5ad2c2db3bdfe25faf0af",
 "__/firebase/8.4.1/firebase-storage.js": "a17b72e11a8d90b36a9d4b246c70cd91",
 "__/firebase/8.4.1/firebase-auth.js": "e92d518e24f65e6f7ca63aaea362d316",
-"main.dart.js": "4cd747015a4850bd20e2af976cd6fde4",
+"main.dart.js": "438ba827a0d04abb5755f6e62f911cce",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
